@@ -25,4 +25,4 @@
 
 📫 **Let's Collaborate**: I’m open to contributing to testing tools, automation frameworks, or anything QA-related. Feel free to connect or share ideas for collaboration!
 
-🔗 [Portfolio Website](#) | [LinkedIn](#)
+🔗 [Portfolio Website](https://myportfolio-93e70.web.app/home) | [LinkedIn](https://www.linkedin.com/in/souvik-sharma-366561151) 
