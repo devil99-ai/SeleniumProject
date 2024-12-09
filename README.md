@@ -1,3 +1,4 @@
+[![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://simplysabir.io)
 👋 Hi, I'm **Souvik Sharma**!
 
 🌟 I'm a **Quality Assurance Engineer** with 3+ years of experience in software testing, automation, and network security. Previously a Network and Security Engineer at Infosys, I now specialize in ensuring software quality through robust automation frameworks and detailed testing methodologies.
